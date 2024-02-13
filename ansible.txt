@@ -1,0 +1,21 @@
+introduction to ansible 
+
+configuration and basic concepts 
+-->intro to confg files 
+-->intro to yaml 
+--> accessing labs 
+--> coding exercise from kodekloud
+
+ansible inventory -->inventory formats -->grouping and parent-relationships
+
+ansible variables -->variable types  --> registering variables precedence -->variable scoping -->magic variables
+
+ansible-playbooks 
+--> veryfying playbooks
+--> ansible-lint
+-->coditionals
+-->loops
+
+-----<>--------------<>-----------------<>------------
+
+
